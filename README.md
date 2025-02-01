@@ -1,7 +1,7 @@
 # Project-01
 
-# Your Name
+# Cas Wilson
 
-# Your Github username
+# Teddy0306
 
-# List the things you added for points
+# I created a house with certain rooms barred off unless you possessed the right item. There are seven different endings, some are always accessible and some are locked off by items. I also had a chest locked by three keys, which the player could keep track of every time they collected one. The room descriptions are only visible the first time the player sees it and item pickups are also reflected in descriptions.
